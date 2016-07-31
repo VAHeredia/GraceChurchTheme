@@ -1,0 +1,27 @@
+Version 1.8
+	- Demo data installation improved
+	- Added support for Google API Key
+
+Version 1.7
+   Updated Visual Composer and other plugins to their latest versions.
+
+Version 1.6
+     Small fixes
+
+Version 1.5
+     Fixes menu behavior on small screens
+
+Version 1.4
+    Fixed Events calendar on mobile
+
+Version 1.3
+    Fixed sorting Ascending and Descending
+
+Version 1.2
+    Fix plugin "Events"
+
+Version 1.1
+    Added demo data
+
+Version 1.0
+    Release
